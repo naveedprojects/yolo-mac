@@ -1,4 +1,4 @@
-# YOLOv12-Mac
+# YOLO-Mac
 
 A high-performance C++ framework for running **YOLOv8, YOLOv11, and YOLOv12** object detection models on Apple Silicon Macs. This project focuses on maximizing inference speed using the Apple Neural Engine (ANE) with comprehensive quantization support.
 
